@@ -24,7 +24,7 @@ jobs:
 
     - name: Install Termonaut
       run: |
-        go install github.com/oiahoon/termonaut-profile/cmd/termonaut@latest
+        go install github.com/oiahoon/termonaut/cmd/termonaut@latest
 
     - name: Generate Badge Data
       run: |
