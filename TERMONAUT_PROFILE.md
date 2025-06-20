@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Xp](https://img.shields.io/badge/XP-Level+6+%282563%2F4900%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-260-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-5h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+6+%282654%2F4900%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-282-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-5h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
@@ -20,12 +20,12 @@
 
 ### 📊 Stats Overview
 
-**Level**: 6 (XP: 2563)  
-**Total Commands**: 260  
-**Unique Commands**: 175  
+**Level**: 6 (XP: 2654)  
+**Total Commands**: 282  
+**Unique Commands**: 187  
 **Current Streak**: 1 days  
 **Longest Streak**: 2 days  
-**Commands Today**: 52  
+**Commands Today**: 74  
 **Favorite Command**: `gst` (9 times)  
 
 </td>
@@ -43,7 +43,7 @@
 1. `gst` (9 times) ████████████████████
 2. `git status` (7 times) ███████████████
 3. `source ~/.zshrc` (7 times) ███████████████
-4. `tn stats` (6 times) █████████████
+4. `tn stats` (7 times) ███████████████
 5. `curl -s example.com` (5 times) ███████████
 
 ---
