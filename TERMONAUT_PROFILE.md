@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Xp](https://img.shields.io/badge/XP-Level+6+%282695%2F4900%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-290-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-5h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+6+%283316%2F4900%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-382-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-6h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
@@ -20,13 +20,13 @@
 
 ### 📊 Stats Overview
 
-**Level**: 6 (XP: 2695)  
-**Total Commands**: 290  
-**Unique Commands**: 192  
+**Level**: 6 (XP: 3316)  
+**Total Commands**: 382  
+**Unique Commands**: 254  
 **Current Streak**: 1 days  
 **Longest Streak**: 2 days  
-**Commands Today**: 82  
-**Favorite Command**: `gst` (9 times)  
+**Commands Today**: 174  
+**Favorite Command**: `gst` (13 times)  
 
 </td>
 </tr></table>
@@ -40,11 +40,11 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (9 times) ████████████████████
-2. `git status` (7 times) ███████████████
-3. `source ~/.zshrc` (7 times) ███████████████
-4. `tn stats` (7 times) ███████████████
-5. `curl -s example.com` (5 times) ███████████
+1. `gst` (13 times) ████████████████████
+2. `source ~/.zshrc` (10 times) ███████████████
+3. `git status` (9 times) █████████████
+4. `ll` (7 times) ██████████
+5. `tn stats` (7 times) ██████████
 
 ---
 
