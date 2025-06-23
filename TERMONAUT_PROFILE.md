@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Last_active](https://img.shields.io/badge/Last+Active-5h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+7+%283895%2F6400%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-489-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+7+%283900%2F6400%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-495-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-8h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
@@ -20,13 +20,13 @@
 
 ### 📊 Stats Overview
 
-**Level**: 7 (XP: 3895)  
-**Total Commands**: 489  
+**Level**: 7 (XP: 3900)  
+**Total Commands**: 495  
 **Unique Commands**: 304  
 **Current Streak**: 1 days  
 **Longest Streak**: 2 days  
-**Commands Today**: 33  
-**Favorite Command**: `gst` (23 times)  
+**Commands Today**: 39  
+**Favorite Command**: `gst` (25 times)  
 
 </td>
 </tr></table>
@@ -40,8 +40,8 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (23 times) ████████████████████
-2. `source ~/.zshrc` (13 times) ███████████
+1. `gst` (25 times) ████████████████████
+2. `source ~/.zshrc` (13 times) ██████████
 3. `git push` (10 times) ████████
 4. `git status` (10 times) ████████
 5. `pomo` (10 times) ████████
