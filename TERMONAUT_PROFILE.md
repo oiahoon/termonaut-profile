@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-8h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+7+%284790%2F6400%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-676-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-2+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+7+%284893%2F6400%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-710-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-2+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-9h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
@@ -20,13 +20,13 @@
 
 ### 📊 Stats Overview
 
-**Level**: 7 (XP: 4790)  
-**Total Commands**: 676  
-**Unique Commands**: 375  
+**Level**: 7 (XP: 4893)  
+**Total Commands**: 710  
+**Unique Commands**: 385  
 **Current Streak**: 2 days  
 **Longest Streak**: 2 days  
-**Commands Today**: 161  
-**Favorite Command**: `gst` (40 times)  
+**Commands Today**: 195  
+**Favorite Command**: `gst` (41 times)  
 
 </td>
 </tr></table>
@@ -40,9 +40,9 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (40 times) ████████████████████
-2. `source ~/.zshrc` (27 times) █████████████
-3. `tm` (14 times) ███████
+1. `gst` (41 times) ████████████████████
+2. `source ~/.zshrc` (35 times) █████████████████
+3. `tm` (15 times) ███████
 4. `ggpush` (13 times) ██████
 5. `git status` (11 times) █████
 
