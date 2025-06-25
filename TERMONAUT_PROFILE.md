@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-8h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+8+%285068%2F8100%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-764-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-3+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+8+%285110%2F8100%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-772-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-3+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-9h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
@@ -20,13 +20,13 @@
 
 ### 📊 Stats Overview
 
-**Level**: 8 (XP: 5068)  
-**Total Commands**: 764  
-**Unique Commands**: 393  
+**Level**: 8 (XP: 5110)  
+**Total Commands**: 772  
+**Unique Commands**: 396  
 **Current Streak**: 3 days  
 **Longest Streak**: 3 days  
-**Commands Today**: 45  
-**Favorite Command**: `gst` (43 times)  
+**Commands Today**: 53  
+**Favorite Command**: `source ~/.zshrc` (44 times)  
 
 </td>
 </tr></table>
@@ -40,8 +40,8 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (43 times) ████████████████████
-2. `source ~/.zshrc` (43 times) ████████████████████
+1. `source ~/.zshrc` (44 times) ████████████████████
+2. `gst` (43 times) ███████████████████
 3. `tm` (20 times) █████████
 4. `ggpush` (16 times) ███████
 5. `git status` (11 times) █████
