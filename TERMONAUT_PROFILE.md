@@ -4,32 +4,17 @@
 
 ## 📊 Badges
 
-![Xp](https://img.shields.io/badge/XP-Level+8+%285446%2F8100%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-830-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-4+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-5h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+8+%285516%2F8100%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-847-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-4+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-7h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) 
 
-## 🎨 Profile & Stats
+## 📈 Overview
 
-<table><tr>
-<td width="40%" align="center">
-
-### 👤 Avatar
-
-![Avatar](./avatars/2d55bed6bb17f3d2f9b80d0955c8d8b1.svg)
-
-</td>
-<td width="60%">
-
-### 📊 Stats Overview
-
-**Level**: 8 (XP: 5446)  
-**Total Commands**: 830  
-**Unique Commands**: 416  
-**Current Streak**: 4 days  
-**Longest Streak**: 4 days  
-**Commands Today**: 40  
-**Favorite Command**: `source ~/.zshrc` (48 times)  
-
-</td>
-</tr></table>
+- **Level**: 8 (XP: 5516)
+- **Total Commands**: 847
+- **Unique Commands**: 419
+- **Current Streak**: 4 days
+- **Longest Streak**: 4 days
+- **Commands Today**: 57
+- **Favorite Command**: `source ~/.zshrc` (51 times)
 
 ## 🏆 Achievements
 
@@ -40,11 +25,11 @@
 
 ## 🔥 Top Commands
 
-1. `source ~/.zshrc` (48 times) ████████████████████
-2. `gst` (45 times) ██████████████████
-3. `tm` (25 times) ██████████
-4. `ggpush` (19 times) ███████
-5. `grup -p` (12 times) █████
+1. `source ~/.zshrc` (51 times) ████████████████████
+2. `gst` (46 times) ██████████████████
+3. `tm` (31 times) ████████████
+4. `ggpush` (21 times) ████████
+5. `grup -p` (12 times) ████
 
 ---
 
