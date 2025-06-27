@@ -4,16 +4,16 @@
 
 ## 📊 Badges
 
-![Xp](https://img.shields.io/badge/XP-Level+8+%285530%2F8100%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-850-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-5+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-2h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
+![Last_active](https://img.shields.io/badge/Last+Active-3h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+8+%285655%2F8100%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-867-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-5+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 8 (XP: 5530)
-- **Total Commands**: 850
-- **Unique Commands**: 420
+- **Level**: 8 (XP: 5655)
+- **Total Commands**: 867
+- **Unique Commands**: 426
 - **Current Streak**: 5 days
 - **Longest Streak**: 5 days
-- **Commands Today**: 1
+- **Commands Today**: 18
 - **Favorite Command**: `source ~/.zshrc` (51 times)
 
 ## 🏆 Achievements
@@ -26,10 +26,10 @@
 ## 🔥 Top Commands
 
 1. `source ~/.zshrc` (51 times) ████████████████████
-2. `gst` (46 times) ██████████████████
-3. `tm` (32 times) ████████████
+2. `gst` (50 times) ███████████████████
+3. `tm` (33 times) ████████████
 4. `ggpush` (21 times) ████████
-5. `grup -p` (12 times) ████
+5. `grup -p` (13 times) █████
 
 ---
 
