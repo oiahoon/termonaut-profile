@@ -4,16 +4,16 @@
 
 ## 📊 Badges
 
-![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-2h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+9+%286583%2F10000%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-972-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) 
+![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-3h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+9+%286590%2F10000%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-978-green?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 9 (XP: 6583)
-- **Total Commands**: 972
+- **Level**: 9 (XP: 6590)
+- **Total Commands**: 978
 - **Unique Commands**: 461
 - **Current Streak**: 1 days
 - **Longest Streak**: 5 days
-- **Commands Today**: 2
+- **Commands Today**: 8
 - **Favorite Command**: `gst` (69 times)
 
 ## 🏆 Achievements
@@ -26,8 +26,8 @@
 ## 🔥 Top Commands
 
 1. `gst` (69 times) ████████████████████
-2. `source ~/.zshrc` (51 times) ██████████████
-3. `tm` (33 times) █████████
+2. `source ~/.zshrc` (52 times) ███████████████
+3. `tm` (34 times) █████████
 4. `ggpush` (29 times) ████████
 5. `git diff` (26 times) ███████
 
