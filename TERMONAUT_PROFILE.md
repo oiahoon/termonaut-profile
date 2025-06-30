@@ -4,11 +4,11 @@
 
 ## 📊 Badges
 
-![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-2h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+9+%286584%2F10000%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-972-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) 
+![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-2h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+9+%286583%2F10000%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-972-green?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 9 (XP: 6584)
+- **Level**: 9 (XP: 6583)
 - **Total Commands**: 972
 - **Unique Commands**: 461
 - **Current Streak**: 1 days
