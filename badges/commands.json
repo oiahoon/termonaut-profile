@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "label": "Commands",
-  "message": "995",
-  "color": "green",
+  "message": "1002",
+  "color": "brightgreen",
   "namedLogo": "terminal",
   "logoColor": "white"
 }
