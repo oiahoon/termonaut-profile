@@ -4,16 +4,16 @@
 
 ## 📊 Badges
 
-![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-8h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+9+%287984%2F10000%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-1281-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-3+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) 
+![Last_active](https://img.shields.io/badge/Last+Active-9h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+9+%288022%2F10000%29-green?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-1291-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-3+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 9 (XP: 7984)
-- **Total Commands**: 1281
-- **Unique Commands**: 549
+- **Level**: 9 (XP: 8022)
+- **Total Commands**: 1291
+- **Unique Commands**: 552
 - **Current Streak**: 3 days
 - **Longest Streak**: 5 days
-- **Commands Today**: 84
+- **Commands Today**: 94
 - **Favorite Command**: `gst` (111 times)
 
 ## 🏆 Achievements
@@ -26,8 +26,8 @@
 ## 🔥 Top Commands
 
 1. `gst` (111 times) ████████████████████
-2. `source ~/.zshrc` (64 times) ███████████
-3. `tm` (62 times) ███████████
+2. `source ~/.zshrc` (66 times) ███████████
+3. `tm` (64 times) ███████████
 4. `git diff` (59 times) ██████████
 5. `ggpush` (47 times) ████████
 
