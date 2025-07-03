@@ -4,17 +4,17 @@
 
 ## 📊 Badges
 
-![Commands](https://img.shields.io/badge/Commands-1301-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-4+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-5h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+9+%288065%2F10000%29-green?style=flat-square&logo=terminal&logoColor=white) 
+![Commands](https://img.shields.io/badge/Commands-1324-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-4+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-6h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+10+%288286%2F12100%29-blue?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 9 (XP: 8065)
-- **Total Commands**: 1301
-- **Unique Commands**: 556
+- **Level**: 10 (XP: 8286)
+- **Total Commands**: 1324
+- **Unique Commands**: 562
 - **Current Streak**: 4 days
 - **Longest Streak**: 5 days
-- **Commands Today**: 1
-- **Favorite Command**: `gst` (111 times)
+- **Commands Today**: 24
+- **Favorite Command**: `gst` (116 times)
 
 ## 🏆 Achievements
 
@@ -25,11 +25,11 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (111 times) ████████████████████
+1. `gst` (116 times) ████████████████████
 2. `source ~/.zshrc` (66 times) ███████████
 3. `tm` (66 times) ███████████
-4. `git diff` (59 times) ██████████
-5. `ggpush` (47 times) ████████
+4. `git diff` (64 times) ███████████
+5. `ggpush` (49 times) ████████
 
 ---
 
