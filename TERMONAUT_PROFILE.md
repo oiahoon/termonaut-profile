@@ -4,17 +4,17 @@
 
 ## 📊 Badges
 
-![Last_active](https://img.shields.io/badge/Last+Active-1h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+10+%289667%2F12100%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-1638-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+10+%289671%2F12100%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-1642-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-3h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 10 (XP: 9667)
-- **Total Commands**: 1638
+- **Level**: 10 (XP: 9671)
+- **Total Commands**: 1642
 - **Unique Commands**: 647
 - **Current Streak**: 1 days
 - **Longest Streak**: 5 days
-- **Commands Today**: 4
-- **Favorite Command**: `gst` (142 times)
+- **Commands Today**: 8
+- **Favorite Command**: `gst` (143 times)
 
 ## 🏆 Achievements
 
@@ -25,7 +25,7 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (142 times) ████████████████████
+1. `gst` (143 times) ████████████████████
 2. `git diff` (79 times) ███████████
 3. `source ~/.zshrc` (76 times) ██████████
 4. `tm` (76 times) ██████████
