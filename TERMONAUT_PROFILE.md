@@ -4,17 +4,17 @@
 
 ## 📊 Badges
 
-![Last_active](https://img.shields.io/badge/Last+Active-57m+ago-brightgreen?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+12+%2812681%2F16900%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2341-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-4+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Streak](https://img.shields.io/badge/Streak-4+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-2h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+12+%2812743%2F16900%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2353-blue?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 12 (XP: 12681)
-- **Total Commands**: 2341
-- **Unique Commands**: 828
+- **Level**: 12 (XP: 12743)
+- **Total Commands**: 2353
+- **Unique Commands**: 832
 - **Current Streak**: 4 days
 - **Longest Streak**: 5 days
-- **Commands Today**: 5
-- **Favorite Command**: `gst` (222 times)
+- **Commands Today**: 17
+- **Favorite Command**: `gst` (223 times)
 
 ## 🏆 Achievements
 
@@ -25,11 +25,11 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (222 times) ████████████████████
-2. `git diff` (119 times) ██████████
+1. `gst` (223 times) ████████████████████
+2. `git diff` (120 times) ██████████
 3. `tm` (82 times) ███████
-4. `ggpush` (78 times) ███████
-5. `source ~/.zshrc` (78 times) ███████
+4. `ggpush` (78 times) ██████
+5. `source ~/.zshrc` (78 times) ██████
 
 ---
 
