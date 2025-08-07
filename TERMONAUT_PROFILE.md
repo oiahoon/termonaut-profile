@@ -4,17 +4,17 @@
 
 ## 📊 Badges
 
-![Xp](https://img.shields.io/badge/XP-Level+13+%2815067%2F19600%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2600-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-11+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-9h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+13+%2815188%2F19600%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2609-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-11+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-12h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 13 (XP: 15067)
-- **Total Commands**: 2600
-- **Unique Commands**: 885
+- **Level**: 13 (XP: 15188)
+- **Total Commands**: 2609
+- **Unique Commands**: 888
 - **Current Streak**: 11 days
 - **Longest Streak**: 11 days
-- **Commands Today**: 17
-- **Favorite Command**: `gst` (229 times)
+- **Commands Today**: 26
+- **Favorite Command**: `gst` (232 times)
 
 ## 🏆 Achievements
 
@@ -25,7 +25,7 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (229 times) ████████████████████
+1. `gst` (232 times) ████████████████████
 2. `git diff` (122 times) ██████████
 3. `tm` (84 times) ███████
 4. `source ~/.zshrc` (82 times) ███████
