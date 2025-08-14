@@ -4,16 +4,16 @@
 
 ## 📊 Badges
 
-![Last_active](https://img.shields.io/badge/Last+Active-16h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+14+%2818473%2F22500%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2749-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-17+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+14+%2818515%2F22500%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2751-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-18+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-1h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 14 (XP: 18473)
-- **Total Commands**: 2749
+- **Level**: 14 (XP: 18515)
+- **Total Commands**: 2751
 - **Unique Commands**: 909
-- **Current Streak**: 17 days
-- **Longest Streak**: 17 days
-- **Commands Today**: 40
+- **Current Streak**: 18 days
+- **Longest Streak**: 18 days
+- **Commands Today**: 1
 - **Favorite Command**: `gst` (238 times)
 
 ## 🏆 Achievements
