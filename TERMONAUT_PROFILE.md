@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Streak](https://img.shields.io/badge/Streak-19+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-22h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+15+%2820885%2F25600%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2815-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Last_active](https://img.shields.io/badge/Last+Active-2h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+15+%2820975%2F25600%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2818-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-20+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
@@ -20,12 +20,12 @@
 
 ### 📊 Stats Overview
 
-**Level**: 15 (XP: 20885)  
-**Total Commands**: 2815  
+**Level**: 15 (XP: 20975)  
+**Total Commands**: 2818  
 **Unique Commands**: 916  
-**Current Streak**: 19 days  
-**Longest Streak**: 19 days  
-**Commands Today**: 24  
+**Current Streak**: 20 days  
+**Longest Streak**: 20 days  
+**Commands Today**: 1  
 **Favorite Command**: `gst` (238 times)  
 
 </td>
@@ -42,7 +42,7 @@
 
 1. `gst` (238 times) ████████████████████
 2. `git diff` (124 times) ██████████
-3. `tuist generate` (107 times) ████████
+3. `tuist generate` (110 times) █████████
 4. `tm` (84 times) ███████
 5. `source ~/.zshrc` (82 times) ██████
 
