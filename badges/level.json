@@ -1,1 +1,8 @@
-{"schemaVersion":1,"label":"Level","message":"1","color":"lightgrey"}
+{
+  "schemaVersion": 1,
+  "label": "Level",
+  "message": "16",
+  "color": "blue",
+  "namedLogo": "terminal",
+  "logoColor": "white"
+}
