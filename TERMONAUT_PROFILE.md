@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Xp](https://img.shields.io/badge/XP-Level+18+%2830421%2F36100%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2975-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-23+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-6h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) 
+![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-7h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+18+%2831697%2F36100%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-2987-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-23+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
@@ -20,13 +20,13 @@
 
 ### 📊 Stats Overview
 
-**Level**: 18 (XP: 30421)  
-**Total Commands**: 2975  
-**Unique Commands**: 923  
+**Level**: 18 (XP: 31697)  
+**Total Commands**: 2987  
+**Unique Commands**: 924  
 **Current Streak**: 23 days  
 **Longest Streak**: 23 days  
-**Commands Today**: 11  
-**Favorite Command**: `gst` (243 times)  
+**Commands Today**: 23  
+**Favorite Command**: `gst` (246 times)  
 
 </td>
 </tr></table>
@@ -40,7 +40,7 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (243 times) ████████████████████
+1. `gst` (246 times) ████████████████████
 2. `tuist generate` (204 times) ████████████████
 3. `git diff` (125 times) ██████████
 4. `tm` (84 times) ██████
