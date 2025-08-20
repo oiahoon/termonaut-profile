@@ -1,8 +1,1 @@
-{
-  "schemaVersion": 1,
-  "label": "Productivity",
-  "message": "80.0%",
-  "color": "brightgreen",
-  "namedLogo": "terminal",
-  "logoColor": "white"
-}
+{"schemaVersion":1,"label":"Productivity","message":"0.0%","color":"red"}
