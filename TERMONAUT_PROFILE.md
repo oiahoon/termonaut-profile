@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-6h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+19+%2835612%2F40000%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-3033-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-24+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) 
+![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-7h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+20+%2836276%2F44100%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-3041-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-24+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
@@ -20,13 +20,13 @@
 
 ### 📊 Stats Overview
 
-**Level**: 19 (XP: 35612)  
-**Total Commands**: 3033  
+**Level**: 20 (XP: 36276)  
+**Total Commands**: 3041  
 **Unique Commands**: 924  
 **Current Streak**: 24 days  
 **Longest Streak**: 24 days  
-**Commands Today**: 25  
-**Favorite Command**: `gst` (246 times)  
+**Commands Today**: 33  
+**Favorite Command**: `gst` (247 times)  
 
 </td>
 </tr></table>
@@ -40,9 +40,9 @@
 
 ## 🔥 Top Commands
 
-1. `gst` (246 times) ████████████████████
+1. `gst` (247 times) ████████████████████
 2. `tuist generate` (204 times) ████████████████
-3. `git diff` (125 times) ██████████
+3. `git diff` (126 times) ██████████
 4. `tm` (84 times) ██████
 5. `source ~/.zshrc` (82 times) ██████
 
