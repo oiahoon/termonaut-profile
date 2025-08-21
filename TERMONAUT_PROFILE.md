@@ -4,7 +4,7 @@
 
 ## 📊 Badges
 
-![Last_active](https://img.shields.io/badge/Last+Active-6h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+21+%2840113%2F48400%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-3078-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-25+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+21+%2840557%2F48400%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-3082-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-25+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-7h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 🎨 Profile & Stats
 
@@ -20,12 +20,12 @@
 
 ### 📊 Stats Overview
 
-**Level**: 21 (XP: 40113)  
-**Total Commands**: 3078  
+**Level**: 21 (XP: 40557)  
+**Total Commands**: 3082  
 **Unique Commands**: 924  
 **Current Streak**: 25 days  
 **Longest Streak**: 25 days  
-**Commands Today**: 22  
+**Commands Today**: 26  
 **Favorite Command**: `gst` (247 times)  
 
 </td>
@@ -43,7 +43,7 @@
 1. `gst` (247 times) ████████████████████
 2. `tuist generate` (204 times) ████████████████
 3. `git diff` (126 times) ██████████
-4. `tuist clean && tuist generate` (105 times) ████████
+4. `tuist clean && tuist generate` (109 times) ████████
 5. `tm` (84 times) ██████
 
 ---
