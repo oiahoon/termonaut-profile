@@ -4,16 +4,16 @@
 
 ## 📊 Badges
 
-![Streak](https://img.shields.io/badge/Streak-26+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-3h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+21+%2843314%2F48400%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-3106-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Xp](https://img.shields.io/badge/XP-Level+21+%2843716%2F48400%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-3109-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-26+days-blue?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-5h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 21 (XP: 43314)
-- **Total Commands**: 3106
+- **Level**: 21 (XP: 43716)
+- **Total Commands**: 3109
 - **Unique Commands**: 924
 - **Current Streak**: 26 days
 - **Longest Streak**: 26 days
-- **Commands Today**: 7
+- **Commands Today**: 10
 - **Favorite Command**: `gst` (248 times)
 
 ## 🏆 Achievements
@@ -27,7 +27,7 @@
 
 1. `gst` (248 times) ████████████████████
 2. `tuist generate` (204 times) ████████████████
-3. `tuist clean && tuist generate` (131 times) ██████████
+3. `tuist clean && tuist generate` (134 times) ██████████
 4. `git diff` (126 times) ██████████
 5. `tm` (84 times) ██████
 
