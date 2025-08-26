@@ -4,16 +4,16 @@
 
 ## 📊 Badges
 
-![Streak](https://img.shields.io/badge/Streak-2+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-14h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+22+%2846782%2F52900%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-3193-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Streak](https://img.shields.io/badge/Streak-2+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-15h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+22+%2846788%2F52900%29-blue?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-3196-blue?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 22 (XP: 46782)
-- **Total Commands**: 3193
+- **Level**: 22 (XP: 46788)
+- **Total Commands**: 3196
 - **Unique Commands**: 944
 - **Current Streak**: 2 days
 - **Longest Streak**: 27 days
-- **Commands Today**: 44
+- **Commands Today**: 47
 - **Favorite Command**: `gst` (252 times)
 
 ## 🏆 Achievements
@@ -27,7 +27,7 @@
 
 1. `gst` (252 times) ████████████████████
 2. `tuist generate` (204 times) ████████████████
-3. `tuist clean && tuist generate` (173 times) █████████████
+3. `tuist clean && tuist generate` (176 times) █████████████
 4. `git diff` (126 times) ██████████
 5. `tm` (84 times) ██████
 
