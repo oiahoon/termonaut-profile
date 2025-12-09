@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "label": "Last Active",
-  "message": "7h ago",
-  "color": "green",
+  "message": "4d ago",
+  "color": "yellow",
   "namedLogo": "terminal",
   "logoColor": "white"
 }
