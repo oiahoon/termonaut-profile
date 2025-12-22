@@ -4,16 +4,16 @@
 
 ## 📊 Badges
 
-![Xp](https://img.shields.io/badge/XP-Level+27+%2868157%2F78400%29-orange?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-4384-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-1h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
+![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-6h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+27+%2868159%2F78400%29-orange?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-4385-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 27 (XP: 68157)
-- **Total Commands**: 4384
+- **Level**: 27 (XP: 68159)
+- **Total Commands**: 4385
 - **Unique Commands**: 1243
 - **Current Streak**: 1 days
 - **Longest Streak**: 27 days
-- **Commands Today**: 2
+- **Commands Today**: 3
 - **Favorite Command**: `tuist clean && tuist generate` (376 times)
 
 ## 🏆 Achievements
