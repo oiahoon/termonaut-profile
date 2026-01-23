@@ -4,16 +4,16 @@
 
 ## 📊 Badges
 
-![Xp](https://img.shields.io/badge/XP-Level+27+%2869135%2F78400%29-orange?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-4618-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-3+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-2h+ago-green?style=flat-square&logo=terminal&logoColor=white) 
+![Last_active](https://img.shields.io/badge/Last+Active-6h+ago-yellow?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+27+%2869186%2F78400%29-orange?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-4633-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-3+days-green?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 27 (XP: 69135)
-- **Total Commands**: 4618
-- **Unique Commands**: 1322
+- **Level**: 27 (XP: 69186)
+- **Total Commands**: 4633
+- **Unique Commands**: 1324
 - **Current Streak**: 3 days
 - **Longest Streak**: 27 days
-- **Commands Today**: 2
+- **Commands Today**: 17
 - **Favorite Command**: `tuist clean && tuist generate` (376 times)
 
 ## 🏆 Achievements
@@ -26,10 +26,10 @@
 ## 🔥 Top Commands
 
 1. `tuist clean && tuist generate` (376 times) ████████████████████
-2. `gst` (368 times) ███████████████████
+2. `gst` (370 times) ███████████████████
 3. `tuist generate` (288 times) ███████████████
-4. `git diff` (153 times) ████████
-5. `ggpush` (107 times) █████
+4. `git diff` (155 times) ████████
+5. `ggpush` (109 times) █████
 
 ---
 
