@@ -4,17 +4,17 @@
 
 ## 📊 Badges
 
-![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) ![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-2h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+27+%2869722%2F78400%29-orange?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-4736-blue?style=flat-square&logo=terminal&logoColor=white) 
+![Achievements](https://img.shields.io/badge/Achievements-5%2F10-blue?style=flat-square&logo=terminal&logoColor=white) ![Last_active](https://img.shields.io/badge/Last+Active-5h+ago-green?style=flat-square&logo=terminal&logoColor=white) ![Xp](https://img.shields.io/badge/XP-Level+27+%2869740%2F78400%29-orange?style=flat-square&logo=terminal&logoColor=white) ![Commands](https://img.shields.io/badge/Commands-4747-blue?style=flat-square&logo=terminal&logoColor=white) ![Streak](https://img.shields.io/badge/Streak-1+days-red?style=flat-square&logo=terminal&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-80.0%25-green?style=flat-square&logo=terminal&logoColor=white) 
 
 ## 📈 Overview
 
-- **Level**: 27 (XP: 69722)
-- **Total Commands**: 4736
-- **Unique Commands**: 1371
+- **Level**: 27 (XP: 69740)
+- **Total Commands**: 4747
+- **Unique Commands**: 1372
 - **Current Streak**: 1 days
 - **Longest Streak**: 27 days
-- **Commands Today**: 2
-- **Favorite Command**: `tuist clean && tuist generate` (376 times)
+- **Commands Today**: 13
+- **Favorite Command**: `gst` (377 times)
 
 ## 🏆 Achievements
 
@@ -25,11 +25,11 @@
 
 ## 🔥 Top Commands
 
-1. `tuist clean && tuist generate` (376 times) ████████████████████
-2. `gst` (375 times) ███████████████████
+1. `gst` (377 times) ████████████████████
+2. `tuist clean && tuist generate` (376 times) ███████████████████
 3. `tuist generate` (288 times) ███████████████
 4. `git diff` (157 times) ████████
-5. `ggpush` (113 times) ██████
+5. `ggpush` (113 times) █████
 
 ---
 
