@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "label": "Streak",
-  "message": "2 days",
-  "color": "red",
+  "message": "3 days",
+  "color": "yellow",
   "namedLogo": "terminal",
   "logoColor": "white"
 }
